@@ -1,0 +1,36 @@
+div {
+ color: rgb(224, 22, 22)
+}
+
+#div1 {
+ color: green
+}
+
+#div2 {
+ color: yellow
+}
+
+#unorder-list {
+ color: rgb(214, 102, 121)
+}
+
+#order-list {
+ color: rgb(79, 79, 230)
+}
+
+.large-font {
+ font-size: 2rem
+}
+
+.deep-background {
+  background-color: black;
+
+  font-size: 4rem;
+}
+
+.version {
+  background-color: darkgreen;
+  color: rgb(255, 255, 255);
+  paddling: 2px 10px;
+  border-radius: 10px;
+}
